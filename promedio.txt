@@ -1,0 +1,2 @@
+el nombre del estudiante es:Daymer
+ha obtenido un promedio de 4
